@@ -1,0 +1,24 @@
+{
+  "name": "ts-udemy-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirogrillion/TS-Udemy-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chirogrillion/TS-Udemy-course/issues"
+  },
+  "homepage": "https://github.com/chirogrillion/TS-Udemy-course#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
